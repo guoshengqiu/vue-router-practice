@@ -1,0 +1,29 @@
+{
+  "name": "vue-router-practice",
+  "version": "1.0.0",
+  "description": "vue router practice",
+  "main": "index.js",
+  "dependencies": {
+    "sass-loader": "^7.2.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoshengqiu/vue-router-practice.git"
+  },
+  "keywords": [
+    "vue",
+    "router"
+  ],
+  "author": "qgs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guoshengqiu/vue-router-practice/issues"
+  },
+  "homepage": "https://github.com/guoshengqiu/vue-router-practice#readme"
+}
