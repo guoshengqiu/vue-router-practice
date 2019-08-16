@@ -1,2 +1,2 @@
 # vue-router-practice
-练习，笔记
+练习，笔记。
